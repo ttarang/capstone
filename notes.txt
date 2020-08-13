@@ -1,0 +1,3 @@
+1. Adjust the parameters that can be used to access the API. Understand the outputs that are returned back.
+2. Retrieve the JSON from the page, and identify the key-value pairs that contain the data that is needed, to find the links to the lyrics page of a song.
+3. Look up beautiful soup. Attempt to use it, and try and create a data frame from the JSON ouput!
